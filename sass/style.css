@@ -12,16 +12,17 @@
     width: 100%;
 }
 
-/* .input-group {
+.input-group {
     width: 100%;
 }
 
 .login .button {
     width: 100%;
 }
- */
+
 .login {
-    background: url(/image/bg3.jpg) no-repeat;
+    color: #FFF;
+    background: url(/image/bg2.jpg) no-repeat;
     position: relative;
     width: 100%;
     min-height: 100vh;
@@ -29,8 +30,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-size: cover;
-   /*  background-position: center; */
+    background-size:cover;
+    background-position: center;
 }
 
 /* .button {
@@ -46,9 +47,10 @@ section {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    background: url(/image/bg4.jpg)no-repeat;
+    background: url(/image/bg2.jpg)no-repeat;
     background-size: cover;
     background-position: center;
+    color: #fff;
 }
 
 .about-section{
@@ -83,7 +85,7 @@ header .logo {
 }
 
 header .navigation a {
-    color: #000;
+    color: #fff;
     text-decoration: none;
     font-weight: 500;
     letter-spacing: 1px;
@@ -98,7 +100,7 @@ header .navigation a:not(:last-child) {
 }
 
 header .navigation a:hover {
-    background: #fff;
+    background: #0C4F60;
 
 }
 
