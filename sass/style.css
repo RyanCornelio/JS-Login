@@ -8,21 +8,10 @@
     font-family: "Poppins", sans-serif;
 }
 
-.loginForm {
-    width: 100%;
-}
-
-.input-group {
-    width: 100%;
-}
-
-.login .button {
-    width: 100%;
-}
 
 .login {
     color: #FFF;
-    background: url(/image/bg2.jpg) no-repeat;
+    background: url(/image/bg1.jpg) no-repeat;
     position: relative;
     width: 100%;
     min-height: 100vh;
@@ -152,11 +141,12 @@ header .navigation a:hover {
     justify-content: center;
     align-items: center;
     margin: auto;
+    color: #fff;
 }
 
 .media-icons a {
     position: relative;
-    color: #111;
+    color: #fff;
     font-size: 35px;
     transition: 0.3s;
     transition-property: all;
