@@ -1,0 +1,23 @@
+{
+  "name": "js-login",
+  "version": "1.0.0",
+  "description": "https://youtu.be/Rrbwrk79WTw?t=1267",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanCornelio/JS-Login.git"
+  },
+  "author": "Ryan Cornelio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanCornelio/JS-Login/issues"
+  },
+  "homepage": "https://github.com/RyanCornelio/JS-Login#readme",
+  "dependencies": {
+    "@dogstudio/highway": "^2.2.1",
+    "gsap": "^3.11.3"
+  }
+}

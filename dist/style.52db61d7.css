@@ -1,4 +1,4 @@
-/*# sourceMappingURL=style.css.map */
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Nunito+Sans&family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
 
 * {
@@ -14,7 +14,7 @@ body section {
 
 .login {
     color: #FFF;
-    background: url(/image/bg6.jpg) no-repeat;
+    background: url(/bg6.aa60457c.jpg) no-repeat;
     position: relative;
     width: 100%;
     min-height: 100vh;
@@ -33,7 +33,7 @@ section {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    background: url(/image/bg8.jpg)no-repeat;
+    background: url(/bg8.ecd2f564.jpg)no-repeat;
     background-color: #154c79;
     background-size: cover;
     background-position: center;
@@ -47,7 +47,7 @@ section {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    background: url(/image/bg4.jpg)no-repeat;
+    background: url(/bg4.b1b19265.jpg)no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -266,3 +266,5 @@ label {
         font-size: 14px;
     }
 }
+
+/*# sourceMappingURL=/style.52db61d7.css.map */
